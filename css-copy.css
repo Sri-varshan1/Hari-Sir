@@ -1,0 +1,48 @@
+
+
+  .ok{
+    background-image: url(/css/beautiful-color-ui-gradients-backgrounds-purple-love.png);
+    background-repeat: no-repeat;
+    width: 100%;
+  }
+
+  .poly{
+    margin-top: 300px;
+    margin-left: 550px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-top: 100px;
+  }
+
+  .para{
+    background-color: #02B7E3;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 187px;
+    margin-left: 553px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 0px;
+    font-size: 18px;
+    border: 2px solid #7BE382;
+  }
+
+  .hh{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 0px;
+  }
+
+  .btn{
+    margin-left: 583px;
+    margin-top: 20px;
+    cursor: pointer;
+    width: 123px;
+    height: 30px;
+    background-color: red;
+    border: none;
+    border-radius: 45px;
+  }
